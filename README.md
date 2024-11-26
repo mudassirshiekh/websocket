@@ -16,6 +16,7 @@ Gorilla WebSocket is a [Go](http://golang.org/) implementation of the
 * [File watch example](https://github.com/gorilla/websocket/tree/main/examples/filewatch)
 
 ### Status
+## By Mudassir Alam
 
 The Gorilla WebSocket package provides a complete and tested implementation of
 the [WebSocket](http://www.rfc-editor.org/rfc/rfc6455.txt) protocol. The
